@@ -1,0 +1,38 @@
+#A for loop loops over a given range
+# the i in the exampl below represents each individual member of the range
+#in range, the last value is excluded
+for i in range(100):
+    print(i)
+    #for num in range (5,10,2):
+        #print(num)
+
+    #for each in range (5,20):
+        #print(each)
+
+#for each in range(5,20,10):
+   #     print(each)
+
+#students = ["Ali","Kassim","Andrew","Eugine"]
+#for every in students:
+    #every += " Kamau"
+   # print(every)
+
+subjects = [23,45,67,56,66]
+total = 0
+for each in subjects:
+       total += each
+       print(total)
+
+1.write a program that puts your name 100 times using a while loop and a for loop
+
+2. write a program that outputs 100 lines, numbers 1 to 100 each with your name
+example
+1. patricia wanjiku
+2. patricia wanjiku
+
+3,write a program that uses a for loop to print the numbers 8, 11, 14, 17,20,,,,upto 83,86,89
+
+4,write a program that prints the first 20 numbers and their squares and their cubes, use both a for loop and a while loop example is
+1...1...1
+2....4....8
+3....9...27
